@@ -1,4 +1,4 @@
-# AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views
+# GENA3D: Generative Amodal 3D Modeling by Bridging 2D Priors and 3D Coherence
 
 <div align="center">
     <a href="https://colezwhy.github.io/" target="_blank">Junwei Zhou</a>,
@@ -9,24 +9,24 @@
     Dartmouth College
 </div>      
 
->**TL;DR**: <em>AmodalGen3D intergrates 2D amodal completion and 3D generative modeling to achieve amodal 3D objects reconstruction from sparse unposed views that are even heavily occluded.</em>
+>**TL;DR**: <em>GENA3D bridges 2D amodal completion and 3D generative modeling to achieve amodal 3D objects generation from sparse and paritial-occluded observations.</em>
 
 <p align="center">
-  <a href="https://colezwhy.github.io/amodalgen-3d/">
+  <a href="https://colezwhy.github.io/gena3d/">
     <img src="https://img.shields.io/badge/Project-Website-green">
   </a>
   <a href="https://arxiv.org/abs/2511.21945">
     <img src="https://img.shields.io/badge/arXiv-2511.21945-b31b1b.svg">
   </a>
     <a href="#">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Colezwhy.AmodalGen3D" alt="Visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Colezwhy.GENA3D" alt="Visitors">
   </a>
 </p>
 
 
-Official implementation for paper 'AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views'.
+Official implementation for paper 'GENA3D: Generative Amodal 3D Modeling by Bridging 2D Priors and 3D Coherence'.
 
-Intergrating 2D amodal completion prior and 3D generative modeling ability in the latent 3D space to achieve amodal 3D objects reconstruction from sparse unposed views, under various scenarios, including single object-level, in-the-wild and in-the-scene.
+Intergrating 2D amodal completion prior and 3D generative modeling ability in the latent 3D space to achieve amodal 3D objects generation from sparse and partial-occluded views, under various scenarios, including single object-level, in-the-wild and in-the-scene.
 
 ![What_are_we_doing](assets/demonstration.gif)
 
