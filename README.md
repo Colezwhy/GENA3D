@@ -28,7 +28,7 @@ Official implementation for paper 'GENA3D: Generative Amodal 3D Modeling by Brid
 
 Intergrating 2D amodal completion prior and 3D generative modeling ability in the latent 3D space to achieve amodal 3D objects generation from sparse and partial-occluded views, under various scenarios, including single object-level, in-the-wild and in-the-scene.
 
-![What_are_we_doing](assets/demonstration.gif)
+![What_are_we_doing](assets/Presentation1.mov)
 
 ## Updates and TODOs
 - ✔️ Update@12/04/2025: initialize the project page. 
@@ -38,10 +38,10 @@ Intergrating 2D amodal completion prior and 3D generative modeling ability in th
 ## Citation
 Here is the bibtex reference. If you find our work interesting or useful, please give us a :star: or cite our paper.
 ```
-@misc{zhou2025amodalgen3d,
-      title={AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views}, 
+@misc{zhou2026gena3dgenerativeamodal3d,
+      title={GENA3D: Generative Amodal 3D Modeling by Bridging 2D Priors and 3D Coherence}, 
       author={Junwei Zhou and Yu-Wing Tai},
-      year={2025},
+      year={2026},
       eprint={2511.21945},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
