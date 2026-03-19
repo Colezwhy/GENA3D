@@ -28,7 +28,8 @@ Official implementation for paper 'GENA3D: Generative Amodal 3D Modeling by Brid
 
 Intergrating 2D amodal completion prior and 3D generative modeling ability in the latent 3D space to achieve amodal 3D objects generation from sparse and partial-occluded views, under various scenarios, including single object-level, in-the-wild and in-the-scene.
 
-![What_are_we_doing](assets/Presentation1.mp4)
+https://github.com/user-attachments/assets/6f4b36e1-c50d-436a-9241-bd0e700c809e
+
 
 ## Updates and TODOs
 - ✔️ Update@12/04/2025: initialize the project page. 
